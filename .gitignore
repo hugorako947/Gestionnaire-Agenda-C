@@ -1,0 +1,13 @@
+# Exécutables et fichiers objets
+*.exe
+*.o
+agenda
+bin/
+obj/
+
+# Fichiers générés automatiquement par Code::Blocks
+*.depend
+*.layout
+
+# Fichier produit à l'exécution (mesures de temps)
+log.txt
